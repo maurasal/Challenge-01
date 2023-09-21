@@ -150,9 +150,9 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application - https://maurasal.github.io/Challenge-01/
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+* The URL of the GitHub repository, with a unique name and a README that describes the project. - https://github.com/maurasal/Challenge-01
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
